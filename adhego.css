@@ -12,7 +12,6 @@ adhtitre {
   line-height: 200%;
   float: left;
   width: 50%;
-  height: auto;
   padding: 5%;
   font-family: 'Fjalla One', sans-serif;
   font-size: 25px;
@@ -24,7 +23,6 @@ ftinfos {
   float: left;
   padding: 5%;
   width: 30%;
-  height: auto;
   margin-top: -1%;
 }
 
