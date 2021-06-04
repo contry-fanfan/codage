@@ -10,18 +10,19 @@
 
 adhtitre {
   float: left;
-  width: 60%;
+  width: 50%;
   height: auto;
   padding: 5%;
   font-family: 'Fjalla One', sans-serif;
   font-size: 25px;
   text-transform: uppercase;
+  line-height: 20%
 }
 
 ftinfos {
   float: left;
   padding: 5%;
-  width: 20%;
+  width: 30%;
   height: auto;
   margin-top: -1%;
 }
