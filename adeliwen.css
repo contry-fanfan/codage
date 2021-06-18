@@ -43,10 +43,10 @@ adep {
   color: #5a5e6b;
 }
 
-adhp::before {
+adep::before {
   content: "« ";
 }
 
-adhp::after {
+adep::after {
   content: " »";
 }
