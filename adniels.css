@@ -1,0 +1,52 @@
+.adniels {
+  margin: auto;
+  font: 12px;
+  line-height: 16px;
+  padding: 5% 10% 5% 10%; 
+  border: solid 1px grey; 
+  width: 80%;
+  text-align: justify;
+}
+
+adntitre {
+  float: left;
+  width: 56%;
+  padding: 2%;
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 25px;
+  text-transform: uppercase;
+  color: #1B42A6;
+}
+
+ftinfos {
+  float: left;
+  padding: 2%;
+  width: 36%;
+  margin-top: -1%;
+  font-size: 9px;
+}
+
+adntitreft::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.adnbarre {
+  border: 0.4px solid;
+  width:70%;
+  opacity:0.5;
+}
+
+adnp {
+  font-weight: bold;
+  color: #A5260A;
+}
+
+adnp::before {
+  content: "« ";
+}
+
+adnp::after {
+  content: " »";
+}
