@@ -19,7 +19,7 @@
 .part1 part2 > div b{display:block;line-height:19px; text-align:left;}
 .part1 part2 > div{line-height:19px; text-align:left;} 
 
-.part1 part2 > span{padding-right: 25px;color:#ddd;}
+.part1 part2 > span{padding-right: 25px;color:#ddd; width: 75px !important}
 
 .hc1{font-size:18px; font-family: 'Hammersmith One', sans-serif; color: #7a49a5 !important}
 
