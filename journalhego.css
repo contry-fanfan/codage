@@ -14,7 +14,7 @@
 
 .part1{margin:2px 40px 4px;border-bottom: 1px solid #5c5c5c}
 
-.part1 part2{display:flex;align-items:center; justify-content:flex-start;}
+.part1 part2{display:flex;justify-content:flex-start;}
 
 .part1 part2 > div b{display:block;line-height:19px; text-align:left;}
 .part1 part2 > div{line-height:19px; text-align:left;} 
