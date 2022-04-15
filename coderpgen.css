@@ -1,0 +1,47 @@
+.rpcadre {
+  margin: auto;
+  font: 12px;
+  line-height: 16px;
+  padding: 5% 10% 5% 10%; 
+  border: solid 1px grey; 
+  width: 80%;
+  text-align: justify;
+}
+
+.addbarre {
+  border: 0.4px solid;
+  width:70%;
+  opacity:0.5;
+}
+
+paroles {
+  font-weight: bold;
+}
+
+paroles::before {
+  content: "« ";
+}
+
+paroles::after {
+  content: " »";
+}
+.infosgen{
+  width: 100%;
+  margin-top: 30px;
+  text-align: center;
+  font-size: 8px !important;
+  letter-spacing: 1px;
+  color: #4e4e4e;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 130%;
+}
+
+danh {color: #bcaaa4;}
+eliwen {color: #5a5e6b;}
+hego {color: #b9591a;}
+lancester {color: #00cccb;}
+leander {color: #bdb76b;}
+niel {color: #a5260a;}
+sevket {color: #00416a;]
+vladymire {color: #b274c5;}
